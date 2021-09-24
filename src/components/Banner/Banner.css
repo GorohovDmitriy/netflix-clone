@@ -46,6 +46,11 @@
 	max-width: 561px;
 	height: 80px;
 }
+@media (max-width: 768px) {
+	.banner__description {
+		max-width: 300px;
+	}
+}
 .banner__buttons {
 	display: flex;
 }

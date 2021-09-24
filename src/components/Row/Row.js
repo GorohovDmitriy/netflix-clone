@@ -24,7 +24,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
 	// Опции Видео трейлеров
 	const opts = {
 		height: '390',
-		width: '1400px',
+		width: '100%',
 		playerVars: {
 			autoplay: 1,
 		}
