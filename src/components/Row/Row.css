@@ -2,11 +2,26 @@
 	color: white;
 	margin-left: 20px;
 }
+h2 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 113.91%;
+	/* identical to box height, or 21px */
+	letter-spacing: 0.2em;
+	margin-left: 28px;
+
+	color: #ffffff;
+}
+
 .row__posters {
 	display: flex;
 	overflow-y: hidden;
 	overflow-x: scroll;
 	padding: 20px;
+}
+.row__posters img {
+	border-radius: 14px;
 }
 .row__posters::-webkit-scrollbar {
 	display: none;
@@ -16,9 +31,11 @@
 	object-fit: contain;
 	max-height: 200px;
 	margin: 10px;
+	border-radius: 15px;
 	cursor: pointer;
 	transition: transform 450ms;
 }
+
 .row__poster:hover {
 	transform: scale(1.08);
 }

@@ -1,3 +1,6 @@
+
+//  Тут хроняться ссылки на данные фильмов и КЛЮЧ
+
 const API_KEY = 'c91068f2bd5a35c89519c19dbe08ef59';
 
 const requests = {

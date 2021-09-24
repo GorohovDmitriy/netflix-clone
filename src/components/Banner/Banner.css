@@ -1,0 +1,174 @@
+.banner {
+	color: #fff;
+	object-fit: contain;
+	height: 768px;
+	margin-bottom: 20px;
+}
+.banner__contents {
+	margin-left: 30px;
+	padding-top: 140px;
+	height: 190px;
+}
+.banner__title {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	line-height: 101px;
+	letter-spacing: 2.5px;
+	color: #ffffff;
+}
+.banner__year {
+	width: 150px;
+	display: flex;
+	padding: 20px 0px;
+	align-items: center;
+	justify-content: space-between;
+}
+.banner__date {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
+.banner__vote {
+	font-style: normal;
+	font-weight: bold;
+	color: #fff;
+}
+.banner__description {
+	font-style: normal;
+	font-weight: 300;
+	font-size: 22px;
+	line-height: 117.91%;
+	letter-spacing: 2.2px;
+	color: #fff;
+	width: 45rem;
+	max-width: 561px;
+	height: 80px;
+}
+.banner__buttons {
+	display: flex;
+}
+.banner__button {
+	border-radius: 4px;
+	font-size: 15px;
+	padding: 0 24px;
+	margin-right: 22px;
+	display: flex;
+	align-items: center;
+	outline: none;
+	height: 56px;
+	background: #fd0000;
+	color: #fff;
+	border: 1px solid #af0000;
+	text-transform: uppercase;
+	letter-spacing: 1.8px;
+	cursor: pointer;
+}
+.banner__button:hover {
+	background: #af0000;
+	color: white;
+	border: 1px solid #fd0000;
+}
+.banner__button:active {
+	background-color: #fd0000;
+}
+.social__block {
+	margin-top: 150px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	padding: 0 20px;
+}
+.social__plus {
+	width: 44px;
+	text-align: center;
+	cursor: pointer;
+	height: 44px;
+	font-size: 38px;
+	border: 1px solid black;
+	margin-right: 20px;
+	background: rgba(6, 6, 6, 0.3);
+	border-radius: 8px;
+}
+.social__plus:hover {
+	background: rgba(6, 6, 6, 0.8);
+	color: rgba(255, 255, 255, 0.5);
+}
+.social__up {
+	width: 44px;
+	height: 44px;
+	text-align: center;
+	border: 1px solid black;
+	margin-right: 20px;
+	background: rgba(6, 6, 6, 0.3);
+	border-radius: 8px;
+	cursor: pointer;
+}
+.social__up > img {
+	padding-top: 10px;
+}
+.social__up:hover {
+	background: rgba(6, 6, 6, 0.8);
+}
+.social__down {
+	width: 44px;
+	height: 44px;
+	text-align: center;
+	border: 1px solid black;
+	margin-right: 20px;
+	background: rgba(6, 6, 6, 0.3);
+	border-radius: 8px;
+	cursor: pointer;
+}
+.social__down > img {
+	padding-top: 10px;
+}
+.social__down:hover {
+	background: rgba(6, 6, 6, 0.8);
+}
+.social__i {
+	width: 44px;
+	text-align: center;
+	cursor: pointer;
+	height: 44px;
+	font-size: 38px;
+	border: 1px solid black;
+	margin-right: 20px;
+	background: rgba(6, 6, 6, 0.3);
+	border-radius: 8px;
+}
+.social__i:hover {
+	background: rgba(6, 6, 6, 0.8);
+	color: rgba(255, 255, 255, 0.5);
+}
+.social__red {
+	width: 12px;
+	height: 57px;
+	background-color: #fd0000;
+	margin-right: 5px;
+}
+.social__red:hover {
+	background-color: #ad0000;
+}
+.social__rating {
+	width: 175px;
+	border: 1px solid rgba(196, 196, 196, 0.44);
+	height: 57px;
+	background: rgba(196, 196, 196, 0.44);
+}
+.social__rating > p {
+	font-size: 28px;
+	text-align: start;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+.social__rating:hover {
+	background: rgba(6, 6, 6, 0.3);
+	border: 1px solid black;
+	color: rgba(196, 196, 196, 0.44);
+}
+.banner__fadeButtom {
+	height: 27.4rem;
+	background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, 0.65), #0d1215);
+}
