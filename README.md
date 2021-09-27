@@ -2,12 +2,14 @@
 
 ## :arrow_right: :arrow_right: :arrow_right:
 
-**Фотографии проекта :**
-![screen1](screen5.png)
-![screen1](screen2.png)
-![screen1](screen3.png)
-![screen1](screen4.png)
-**Stack :**
+> [Cсылка на проект](netflix-clone-9f554.web.app/)
+
+> Фотографии проекта :**
+> ![screen1](screen5.png)
+> ![screen1](screen2.png)
+> ![screen1](screen3.png)
+> ![screen1](screen4.png)
+> **Stack :\*\*
 
 - [x] React Js { useState, useEffect }
 - [x] styled-compoents
