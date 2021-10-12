@@ -2,7 +2,7 @@
 
 ## :arrow_right: :arrow_right: :arrow_right:
 
-> [Cсылка на проект](netflix-clone-9f554.web.app/)
+netflix-clone-9f554.web.app
 
 > Фотографии проекта :**
 > ![screen1](screen5.png)
